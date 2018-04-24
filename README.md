@@ -4,13 +4,17 @@ Welcome to Codee's repository for a simple front-end image carousel created on R
 
 
 Please run these commands to run the carousel on localhost:
+
 ```
 git clone https://github.com/codeeong/b12.git
+```
 
+```
 cd b12
+```
 
+```
 npm start
-
 ```
 
 Open http://localhost:3000 to view it in your browser.
