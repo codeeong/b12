@@ -9,6 +9,8 @@ git clone https://github.com/codeeong/b12.git
 
 cd b12
 
+npm install
+
 npm start
 
 ```
