@@ -15,9 +15,4 @@ npm start
 
 Open http://localhost:3000 to view it in your browser.
 
-For transparency - various online resources and existing tutorials were referenced to make this carousel within the allocated time!
-They include mainly:
-- stackoverflow
-- https://medium.com/@ItsMeDannyZ/build-an-image-slider-with-react-es6-264368de68e4
-- https://blog.alexdevero.com/create-simple-carousel-react-js/#putting-it-together-2
-- various other websites that came up while googling!
+Various online resources and existing tutorials were referenced to make this carousel within the allocated time!
