@@ -33,7 +33,8 @@ class Body extends Component {
     let index = this.state.activeIndex;
     let { slides } = this.props;
     let slidesLength = slides.length;
-
+    
+    //go to the last slide if currently at first slide
     if (index < 1) {
       index = slidesLength;
     }
@@ -52,6 +53,7 @@ class Body extends Component {
     let { slides } = this.props;
     let slidesLength = slides.length - 1;
 
+    //go to first slider if currently at last slide
     if (index === slidesLength) {
       index = -1;
     }
